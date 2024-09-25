@@ -16,7 +16,7 @@
 		</repository>
 	</repositories>
 	<properties>
-		<jersey2.version>2.43</jersey2.version>
+		<jersey2.version>2.45</jersey2.version>
 		<jaxrs.version>2.0.1</jaxrs.version>
 	</properties>
 	<dependencies>
